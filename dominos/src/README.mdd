@@ -1,0 +1,32 @@
+ReadMe file for Dominos
+Created by Alex Hartel
+Created in February 2024
+
+How to play:
+Console version, pretty lenient on move placement, I made it so it will try which ever wany you slect first,
+but if there is play with that domino it will play it.
+GUI version, it will check only the way you request.
+
+
+Things I would like to work on in the future:
+I would have worked on the inheritance and make a hand class and have player inherit hand
+   instead of just putting it in player.
+I would have made a board class to allow for cleaner code.
+I would have used linked lists.
+I would have liked to figure out how to shorten my code and make it more efficient.
+
+
+Known issues:
+Redundancy in code.
+I have been working on trying to get the flow correct but still have redundant code.
+The GUI version I have it set up so you don't have to get the exact domino in the right spot,
+  it will assist you a little bit.
+The GUI on the other hand has it where you have to tell it exactly where and how to put it.
+
+
+GUI issues:
+GUI works well when it wants to. Periodically it will have logical errors comparing values.
+Some games it will go smooth some not so much.
+Something it wrong when it compares but it is not consistant.
+If I had more time I would break the code down into easier to read and remove as much redundancy as possible.
+I am positive the redundant code is causing issues.
